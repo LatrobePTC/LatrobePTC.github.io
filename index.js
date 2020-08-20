@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=2.5;
-Typer.file="spoilers.txt";
+Typer.file="latrobepentester.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
